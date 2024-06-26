@@ -7,7 +7,7 @@ This repository contains codes relating to the first wave of the *Network, Emplo
 ### Useful links
 
 * For more information on the survey, see the [dedicated website](https://neemsis.hypotheses.org/).
-* All documents (i.e., survey manual, questionnaire, survey report) relating to the survey are freely available on HAL ([hal-03751302](https://hal.science/hal-03751302)).
+* All documents (i.e., survey manual, questionnaires, survey report) relating to the survey are freely available on HAL ([hal-03751302](https://hal.science/hal-03751302)).
 * All anonymised data are available in open access on Harvard Dataverse (doi: [10.7910/DVN/KN3KFJ](https://doi.org/10.7910/DVN/KN3KFJ)).
 * A working paper detailing the methodology of the RUME survey is available in open access [here](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf).
 
